@@ -40,7 +40,7 @@
 [![](https://visitcount.itsvg.in/api?id=arjavlamsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arjavlamsal/arjavlamsal/output/github-contribution-grid-snake.svg" />
   
   <br/>
