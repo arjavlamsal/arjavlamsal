@@ -1,6 +1,7 @@
 ![logo](https://github.com/arjavlamsal/arjavlamsal/blob/main/Arjav%20Banner.png)
+<hr>
 
-<h1 align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+my+Github+Profile!;" />
 </h1>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -19,9 +20,7 @@
 
 - 📄 Know about my experiences [http:://lamsalarjav.com.np/](http:://lamsalarjav.com.np/)
 
-
 <br>
-
 
 
 
@@ -35,14 +34,23 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjavlamsal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.arjav.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjavlamsal) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjavlamsal&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arjavlamsal&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjavlamsal&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=arjavlamsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lalala) 
-
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <br/><br/><br/>
+</div><hr>
+
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Want+to+Collaborate?;+Shoot+me+a+message!!!;" />
+</h1><br>
+
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lalala) 
+
