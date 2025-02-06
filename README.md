@@ -34,6 +34,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arjavlamsal&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjavlamsal&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjavlamsal&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjavlamsal&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjavlamsal&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjavlamsal&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arjavlamsal&theme=monokai&utcOffset=8)
 ---
 [![](https://visitcount.itsvg.in/api?id=arjavlamsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
