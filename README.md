@@ -32,13 +32,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjavlamsal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.arjav.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lamsalarjav) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjavlamsal&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjavlamsal&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjavlamsal&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arjavlamsal&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arjavlamsal&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arjavlamsal&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arjavlamsal&theme=monokai&utcOffset=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arjavlamsal&theme=shades-of-purple&hide_border=true&card_width=700)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=arjavlamsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
