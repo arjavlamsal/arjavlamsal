@@ -20,17 +20,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=arjavlamsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <h1>My Contributions:</h1>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arjavlamsal/arjavlamsal/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div><hr>
-
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Want+to+Collaborate?;+Shoot+me+a+message!!!;" />
-</h1><br>
-
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arjavlamsal) 
+<hr>
+
 
